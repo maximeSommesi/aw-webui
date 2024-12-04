@@ -264,7 +264,14 @@ const browser_appnames = {
     'Waterfox.exe',
     'waterfox',
     'waterfox.exe',
-  ],
+
+    // Floorp
+  'Floorp',
+  'floorp',
+  'zen-browser'
+  ]
+  
+  ,
   opera: ['opera.exe', 'Opera'],
   brave: ['Brave-browser', 'Brave Browser', 'brave.exe'],
   edge: [
